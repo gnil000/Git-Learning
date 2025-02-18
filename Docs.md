@@ -1,2 +1,3 @@
 - This is documentation
-- It contains lots of info
+- New feature info
+- It has lots of info
